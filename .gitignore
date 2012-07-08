@@ -1,0 +1,5 @@
+*.pyc
+/share
+/lib
+/bin
+/include
