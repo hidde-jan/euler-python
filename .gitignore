@@ -1,5 +1,2 @@
 *.pyc
-/share
-/lib
-/bin
-/include
+/venv
